@@ -13,7 +13,7 @@
 
 void LCD_INIT(void);
 void LCD_WRITE_CHR(u8);
-void LCD_WRITE_CMD(u8);
+//void LCD_WRITE_CMD(u8);
 void LCD_WRITE_STR(u8*);
 void LCD_WRITE_INT(u32);
 void LCD_CLR(void);
